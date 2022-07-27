@@ -1,7 +1,9 @@
 # 100_prisoners_problem
 Program to simulate the probability to have chains/loops longer than the number of prisoners/2 for "The 100 Prisoners Riddle"
-[The Riddle That Seems Impossible Even If You Know The Answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
-[100 prisoners problem](https://en.wikipedia.org/wiki/100_prisoners_problem)
+
+See these resource for the context:
+1. Youtube video: [The Riddle That Seems Impossible Even If You Know The Answer](https://www.youtube.com/watch?v=iSNsgj1OCLA)
+2. Wikipedia article: [100 prisoners problem](https://en.wikipedia.org/wiki/100_prisoners_problem)
 
 ## Usage:
 ```
